@@ -1,5 +1,6 @@
 <?php
 
+die();
 echo "hello world!";
 print_r(11);
 
