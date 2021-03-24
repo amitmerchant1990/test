@@ -11,5 +11,9 @@ function hello(){
 function fetch(){
     die();
 }
+
+function checkingRebase() {
+}
+
 exit;
 ?>
