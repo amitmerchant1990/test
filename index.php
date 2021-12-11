@@ -13,6 +13,7 @@ function fetch(){
 }
 
 function checkingRebase() {
+	echo "test"
 }
 
 exit;
